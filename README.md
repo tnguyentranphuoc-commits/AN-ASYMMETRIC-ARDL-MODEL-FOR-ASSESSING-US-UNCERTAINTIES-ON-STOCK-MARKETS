@@ -88,7 +88,7 @@ The empirical framework integrates **symmetric ARDL** and **asymmetric NARDL** m
 > *Southeast Asian Stock Markets in the Uncertainty World: Evidence from Symmetric and Asymmetric Cointegration Approach.*  
 > College of Economics, Law and Government – CELG 2025, University of Economics Ho Chi Minh City (UEH)
 
- # Based study: Tran MP-B, Vo DH (2023) Asia-Pacific stock market return and volatility in the uncertain world: Evidence from the nonlinear autoregressive distributed lag approach. PLoS ONE 18(5): e0285279. https://doi.org/10.1371/journal. pone.0285279 
+>  Based study: Tran MP-B, Vo DH (2023) Asia-Pacific stock market return and volatility in the uncertain world: Evidence from the nonlinear autoregressive distributed lag approach. PLoS ONE 18(5): e0285279. https://doi.org/10.1371/journal. pone.0285279 
 				
 ---
 ## (viii). License
@@ -99,9 +99,9 @@ If you use or reference this work, please cite the authors appropriately.
 ---
 
 ## (ix). Acknowledgements
-This research is conducted in the context of the UEH CELG Awards 2025.
- Award details: https://celg.ueh.edu.vn/celg-awards-2025/
-Special thanks to the CELG academic committee for methodological guidance and research support.
+>  This research is conducted in the context of the UEH CELG Awards 2025.
+>  Award details: https://celg.ueh.edu.vn/celg-awards-2025/
+> Special thanks to the CELG academic committee for methodological guidance and research support.
 ---
 
 
