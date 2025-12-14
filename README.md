@@ -70,16 +70,12 @@ The empirical framework integrates **symmetric ARDL** and **asymmetric NARDL** m
 
 ## (vi). Repository Contents
 
-├── AN ASYMMETRIC ARDL MODEL FOR ASSESSING US UNCERTAINTIES ON STOCK MARKETS.do
-│       # Stata code for ARDL–NARDL estimation
-├── AN ASYMMETRIC ARDL MODEL FOR ASSESSING US UNCERTAINTIES ON STOCK MARKETS.dta
-│       # Processed dataset
-├── BASED WORK.pdf
-│       # Full research manuscript
-├── Methods and Results.pdf
-│       # Condensed methodology and empirical findings
-├── README.md
-│       # Project documentation
+
+- `AN ASYMMETRIC ARDL MODEL FOR ASSESSING US UNCERTAINTIES ON STOCK MARKETS.do`: Stata code for ARDL–NARDL estimation
+- ` AN ASYMMETRIC ARDL MODEL FOR ASSESSING US UNCERTAINTIES ON STOCK MARKETS.dta`: Processed dataset
+- `BASED WORK.pdf`
+- `Methods and Results.pdf`: Condensed methodology and empirical findings
+- ` README.md`
 
 ---
 ## (vii). Citation
